@@ -1,6 +1,6 @@
 # Installer for HashiCorp Terraform - Automated Installation
 
-## Automatically Download, Extract and Install Latest or Specific Version
+## Automatically Download, Extract and Install Latest or specific version
 
 [![release](https://img.shields.io/github/release/robertpeteuil/terraform-installer.svg?colorB=2067b8)](https://github.com/robertpeteuil/terraform-installer)
 [![bash](https://img.shields.io/badge/language-bash-89e051.svg?style=flat-square)](https://github.com/robertpeteuil/terraform-installer)
@@ -12,7 +12,7 @@
 
 ---
 
-The **terraform-install** script automates the process of downloading and installing Terraform.  It provides an ideal method for installing installing updates or a specific version.
+The **terraform-install** script automates the process of downloading and installing Terraform.  It provides an ideal method for installing installing updates or a specific version. Great for bouncing between environments or accounts
 
 This script detects the latest version, OS and CPU-Architecture and allows installation to local or system locations.  Optional parameters allow installing a specific version and installing to /usr/local/bin without prompting.
 
